@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yadu096
 - 👀 I’m interested in building some really cool apps later in my development career but as of now im just a student.
-- 🌱 I’m currently learning how this thing works.
-- 💞️ I’m looking to collaborate on front-end projects.
+- 🌱 I’m currently learning react js.
+- 💞️ I’m looking to collaborate on full-stack projects.
 - 📫 How to reach me ... reach me at ysingh10f@gmail.com.
 
 <!---
